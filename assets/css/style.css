@@ -1,0 +1,10 @@
+ body 
+      {
+         background-image: url("https://prod3.agileticketing.net/images/user/fsc_2553/fs_movie_trivia_night_800.jpg") !important;
+         z-index: -1;
+      }
+
+.jumbotron 
+      {
+         background-color: rgb(250, 255, 220);
+      }
